@@ -1,0 +1,20 @@
+V2.2:
+• Added resistor values to silkscreen due to differences in common documentation which is based on early international boards or US boards
+• Added capacitor values to silkscreen due to differences in common documentation which is based on early international boards or US boards
+
+V2.1:
+• Removed track wich caused a short between R2 and R3 which caused to 
+• Corrected mising 0.6MM track at R17
+• Added filmcap replacement possibility at C1
+• Added boardversion to silkscreen
+• Updated resistor and diode values to 'real' values instead of relying on Larry Pina's outdated BOM's
+• Added schematics of power circuit of this -D revision board
+
+V2.0: 
+• Corrected CR20 to CR21 error on silkscreen
+
+V1.5:
+• First production batch deployed
+
+V1.0: 
+• Initial release
