@@ -1,3 +1,8 @@
+V2.3:
+• Removed dots in resistor values on silkscreen (ie 1.5 did become 1R5)
+• Added film and ceramic capacitor values to silkscreen
+• Revised BOM
+
 V2.2.1:
 • Minor silkscreen corrections
 
