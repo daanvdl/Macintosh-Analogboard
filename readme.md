@@ -2,11 +2,14 @@
 
 This is a tested and working analog board recreation of the Macintosh 128k/512k/Plus, 820-0107-D analog board. The provided files are licensed under CC-BY-NC-SA - they are NOT intended for commercial use
 
+![](Images/board.png)
+
 ## General
 
 This board can replace any revision (A/B/C) board. This INTERNATIONAL board can be configured for both 110V as 240V. I did **not** test the 110V setup. The 110V setup likely need component changes and has no documentation (yet).
 
 ## Improvements
+
 * C1 3.9uF filmcap possibility
 * All resistors, diodes and most of the capacitors are value labeled on silkscreen
 * If a part no longer exists and there is a alternative, the replacement part is printed on silkscreen
