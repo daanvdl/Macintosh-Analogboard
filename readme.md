@@ -18,7 +18,8 @@ This board can be produced using JLCPCB using 2MM thickness, but 1.6MM should al
 
 ## BOM
 
-This is a BOM for the **820-0107-D** INTERNATIONAL board. *Although I have done my utmost to ensure an accurate list, I cannot rule out that there are errors in the BOM. Use at your own risk
+This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup. 
+**Although I have done my utmost to ensure an accurate list, I cannot rule out that there are errors in the BOM. Use at your own risk*
 
 | ID   | Value                          | Comment                                         |
 | ---- | ------------------------------ | ----------------------------------------------- |
