@@ -30,32 +30,32 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | C1   | 3.9/25V BP                     | Replacement: Panasonic ECQ-E1395JFW             |
 | C2   | 4700/16V                       | 4700uF 16V                                      |
 | C3   | 220/16V                        | 220uF  16V                                      |
-| C4   | 0.033uF 400V ceramic disk      |                                                 |
+| C4   | 0.033uF                        | 400V ceramic disk                               |
 | C5   | 47/10V                         | 47uF  10V                                       |
 | C6   | 22/50V                         | 22uF 50V                                        |
-| C7   | 0.01uF 1kV  ceramic disk       |                                                 |
-| C8   | 0.01uF 1kV caramic disk        |                                                 |
-| C9   | 0.22uF 100V  ceramic disk      |                                                 |
+| C7   | 0.01uF                         | 1kV  ceramic disk                               |
+| C8   | 0.01uF                         | 1kV caramic disk                                |
+| C9   | 0.22uF                         | 100V  ceramic disk                              |
 | C10  | 33/16V                         | 33uF 16V                                        |
-| C11  | 10/160V                        | 10uF  160V                                      |
+| C11  | 10/160V                        | 10uF 160V                                       |
 | C12  | 22/50V                         | 22uF 50V                                        |
-| C13  | 0.01uF 1.5kV  ceramic disk     |                                                 |
-| C14  | 0.01uF 1.5kV ceramic disk      |                                                 |
-| C15  | 0.01uF 1.5kV  ceramic disk     |                                                 |
-| C16  | 0.01uF 400V film               |                                                 |
-| C17  | 0.01uF 400V  film              |                                                 |
+| C13  | 0.01uF                         | 1.5kV  ceramic disk                             |
+| C14  | 0.01uF                         | 1.5kV  ceramic disk                             |
+| C15  | 0.01uF                         | 1.5kV  ceramic disk                             |
+| C16  | 0.01uF                         | 400V film                                       |
+| C17  | 0.01uF                         | 400V film                                       |
 | C18  | 33/16V                         | 33uF 16V                                        |
 | C19  | 0.1uF                          | 0.1uF  ceramic axial                            |
-| C20  | 0.1uF ceramic axial            |                                                 |
-| C21  | 0.01uF 400V  film              |                                                 |
-| C22  | 0.1uF 100V film                |                                                 |
+| C20  | 0.1uF                          | ceramic axial                                   |
+| C21  | 0.01uF                         | 400V  film                                      |
+| C22  | 0.1uF                          | 100V film                                       |
 | C23  | 0.1uF                          | 0.1uF  ceramic axial                            |
 | C24  | 2200/16V                       | 2200uF 16V                                      |
-| C25  | 0.022uF 400V  film             |                                                 |
+| C25  | 0.022uF                        | 400V  film                                      |
 | C26  | 0.1uF                          | 0.1uF caramic axial                             |
 | C27  | 2200/10V                       | 2200uF  10V                                     |
 | C28  | 1000/16V                       | 1000uF 16V                                      |
-| C29  | 0.47uF 400V                    |                                                 |
+| C29  | 0.47uF                         | 400V                                            |
 | C30  | 2200/10V                       | 2200uF 10V                                      |
 | C31  | 220/16V                        | 220uF  16V                                      |
 | C32  | 2200/16V                       | 2200uF 16V                                      |
@@ -66,11 +66,11 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | C37  | 0.47uF/250V X2                 | 0.47uF  250V X2 minibox                         |
 | C38  | 100/200V                       | 100uF 200V                                      |
 | C39  | 100/200V                       | 100uF  200V                                     |
-| C40  | 33pf 1kV                       |                                                 |
-| C41  | 0.1uF 100V film                |                                                 |
+| C40  | 33pf                           | 1kV                                             |
+| C41  | 0.1uF                          | 100V film                                       |
 | C42  | 470/10V                        | 470uF 10V                                       |
-| C43  | 0.01uF 400V  film              |                                                 |
-| C44  | 0.01uF 1kV ceramic disk        |                                                 |
+| C43  | 0.01uF                         | 400V  film                                      |
+| C44  | 0.01uF                         | 1kV ceramic disk                                |
 | C45  | 470/10V                        | 470uF  10V                                      |
 | C46  | 0.1uF                          | 0.1uF ceramic axial                             |
 | CR1  | MR824                          | GI854/MR824                                     |
@@ -110,16 +110,16 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | J3   | Speaker                        |                                                 |
 | J4   | 26-60-4110                     |                                                 |
 | J5   | 250V C14 socket                |                                                 |
-| L1   | 27uH coil                      |                                                 |
-| L2   | 10-50uH  variable coil         |                                                 |
+| L1   | 27uH                           | coil                                            |
+| L2   | 10-50uH                        | variable coil                                   |
 | L3   | Linerarity coil (Apple custom) |                                                 |
-| L4   | 27uH axial                     |                                                 |
-| L5   | 27uH axial                     |                                                 |
-| L6   | 27uH coil                      |                                                 |
-| L7   | ??                             |                                                 |
-| L8   | 27uH coil                      |                                                 |
-| L9   | 27uH coil                      |                                                 |
-| L10  | 27uH coil                      |                                                 |
+| L4   | 2uH                            | axial                                           |
+| L5   | 27uH                           | axial                                           |
+| L6   | 27uH                           | coil                                            |
+| L7   | unknown                        |                                                 |
+| L8   | 27uH                           | coil                                            |
+| L9   | 27uH                           | coil                                            |
+| L10  | 27uH                           | coil                                            |
 | LF1  | Linefilter                     |                                                 |
 | LF2  | Linefilter                     |                                                 |
 | NE1  | NE-2H NEON                     |                                                 |
@@ -137,14 +137,14 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | Q11  | 2N3906                         |                                                 |
 | Q12  | CR400Y                         | CR400Y  / BR103 reversed                        |
 | R1   | 220                            | 1/4W                                            |
-| R2   | 1.5                            | 1/4W                                            |
-| R3   | 1.5                            | 1/4W                                            |
+| R2   | 1R5                            | 1/4W                                            |
+| R3   | 1R5                            | 1/4W                                            |
 | R4   | 100                            | 1/4W                                            |
 | R5   | 470K                           | 1/4W                                            |
-| R6   | 4.7K                           | 1/4W                                            |
+| R6   | 4K7                            | 1/4W                                            |
 | R7   | 100                            | 1/4W                                            |
 | R8   | 10K                            | 1/4W                                            |
-| R9   | 1.5                            | 1/4W                                            |
+| R9   | 1R5                            | 1/4W                                            |
 | R10  | 39/5W                          | 5W  Cement                                      |
 | R11  | 100                            | 1/4W                                            |
 | R12  | 1M                             | 1/2W                                            |
@@ -163,7 +163,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | R25  | 10K                            | 1/4W                                            |
 | R26  | 1M                             | 1/4W                                            |
 | R27  | 10K                            | 1/4W                                            |
-| R28  | 4.7K                           | 1/4W                                            |
+| R28  | 4K7                            | 1/4W                                            |
 | R29  | 470                            | 1/4W                                            |
 | R30  | 470                            | 1/4W                                            |
 | R31  | 1K/2W                          | 2W metaloxide                                   |
@@ -174,7 +174,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | R36  | 16 4A-ICL  thermistor NTC      |                                                 |
 | R37  | 390                            | 1/4W                                            |
 | R38  | 10K                            | 1/4W                                            |
-| R39  | 1.2K                           | 1% 1/4W                                         |
+| R39  | 1K2                            | 1% 1/4W                                         |
 | R40  | 47                             | 1/4W                                            |
 | R41  | 100                            | 1/4W                                            |
 | R42  | 1K                             | 1/4W                                            |
@@ -184,11 +184,11 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | R46  | 4.7                            | 1/4W                                            |
 | R47  | 1K                             | 1/4W                                            |
 | R48  | 39/2W                          | 1W  metaloxide                                  |
-| R49  | 1.5                            | 1/4W                                            |
+| R49  | 1R5                            | 1/4W                                            |
 | R50  | 2.2K                           | 1/4W                                            |
 | R51  | 220                            | 1/4W                                            |
 | R52  | 1K/5W                          | Cement                                          |
-| R53  | 1.2                            | 1/4W                                            |
+| R53  | 1R2                            | 1/4W                                            |
 | R54  | 15                             | 1/4W                                            |
 | R55  | 33K                            | 1/2W                                            |
 | R56  | 2M                             | PT15LV17-200                                    |
