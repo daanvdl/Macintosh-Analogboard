@@ -1,6 +1,6 @@
 # Macintosh 128K/512K/Plus Analogboard recreation
 
-This is a tested and working analog board recreation of the Macintosh 128k/512k/Plus, 820-0107-D analog board. The provided files are licensed under CC-BY-NC-SA - they are NOT intended for commercial use
+This is a tested and working analog board recreation of the Macintosh 128k/512k/Plus, 820-0107-D analog board. 
 
 ![](Images/board.png)
 
@@ -71,7 +71,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | C42  | 470/10V                        | 470uF 10V                                       |
 | C43  | 0.01uF                         | 400V  film                                      |
 | C44  | 0.01uF                         | 1kV ceramic disk                                |
-| C45  | 470/10V                        | 470uF  10V                                      |
+| C45  | 470/10V                        | 470uF 10V                                       |
 | C46  | 0.1uF                          | 0.1uF ceramic axial                             |
 | CR1  | MR824                          | GI854/MR824                                     |
 | CR2  | 1N4150                         |                                                 |
@@ -113,7 +113,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | L1   | 27uH                           | coil                                            |
 | L2   | 10-50uH                        | variable coil                                   |
 | L3   | Linerarity coil (Apple custom) |                                                 |
-| L4   | 2uH                            | axial                                           |
+| L4   | 27uH                           | axial                                           |
 | L5   | 27uH                           | axial                                           |
 | L6   | 27uH                           | coil                                            |
 | L7   | unknown                        |                                                 |
@@ -183,7 +183,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | R45  | 390                            | 1/4W                                            |
 | R46  | 4.7                            | 1/4W                                            |
 | R47  | 1K                             | 1/4W                                            |
-| R48  | 39/2W                          | 1W  metaloxide                                  |
+| R48  | 39/2W                          | 1W metaloxide                                   |
 | R49  | 1R5                            | 1/4W                                            |
 | R50  | 2.2K                           | 1/4W                                            |
 | R51  | 220                            | 1/4W                                            |
@@ -216,7 +216,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | W9   | 0                              | Jumperwire                                      |
 | W10  | 0                              | Jumperwire                                      |
 | W11  | 0                              | Jumperwire                                      |
-| W12  |                                | NOT PLACED ON 220V BOARDS                       |
+| W12  |                                | NOT PLACED ON 240V BOARDS                       |
 | W13  | 0                              | Jumperwire                                      |
 
 ## Troubleshooting
