@@ -201,7 +201,7 @@ This is a BOM for the **820-0107-D** INTERNATIONAL board in 240V setup.
 | SW1  | CUSTOM                         | https://github.com/daanvdl/mac_plus_sw1         |
 | T1   | Apple custom Flyback           |                                                 |
 | T2   | Apple custom transformer       |                                                 |
-| T3   | 820-0107-D                     |                                                 |
+| T3   | 157-0047-[X]                   |                                                 |
 | U1   | LM324                          |                                                 |
 | U2   | LS38                           |                                                 |
 | U3   | 4N35                           | 4N35 or CNY17                                   |
