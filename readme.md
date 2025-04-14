@@ -242,20 +242,20 @@ Please be aware that you keep in mind that these books are mainly referencing to
 
 This is a quick cross reference table between the US and INTERNATION boards:
 
-| ID   | US         | INTERNATIONAL |
-| ---- | ---------- | ------------- |
-| T3   | 157-0047-A | 157-0047-A    |
-| CR18 | 1N5927     | 1N5234B       |
-|      | R16        | R20           |
-|      | R9         | R12           |
-|      | R54        | R58           |
-|      | R52        | R55           |
-|      | R46-R51    | R48-R55       |
-|      | R56        | R59           |
-|      | Q9-Q10     | Q11-Q12       |
-|      | Q11        | Q10           |
-|      | Q3         | Q2            |
-|      | Q2         | Q4            |
+| ID   | US           | INTERNATIONAL |
+| ---- | ------------ | ------------- |
+| T3   | 157-0025-[X] | 157-0047-[X]  |
+| CR18 | 1N5927       | 1N5234B       |
+|      | R16          | R20           |
+|      | R9           | R12           |
+|      | R54          | R58           |
+|      | R52          | R55           |
+|      | R46-R51      | R48-R55       |
+|      | R56          | R59           |
+|      | Q9-Q10       | Q11-Q12       |
+|      | Q11          | Q10           |
+|      | Q3           | Q2            |
+|      | Q2           | Q4            |
 
 ### Usual suspects
 
